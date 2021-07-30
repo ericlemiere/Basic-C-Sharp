@@ -1,0 +1,12 @@
+C:\Users\ericr\Documents\GitHub\Basic-C-Sharp\PersonComparison\PersonComparison\bin\Debug\netcoreapp3.1\PersonComparison.exe
+C:\Users\ericr\Documents\GitHub\Basic-C-Sharp\PersonComparison\PersonComparison\bin\Debug\netcoreapp3.1\PersonComparison.deps.json
+C:\Users\ericr\Documents\GitHub\Basic-C-Sharp\PersonComparison\PersonComparison\bin\Debug\netcoreapp3.1\PersonComparison.runtimeconfig.json
+C:\Users\ericr\Documents\GitHub\Basic-C-Sharp\PersonComparison\PersonComparison\bin\Debug\netcoreapp3.1\PersonComparison.runtimeconfig.dev.json
+C:\Users\ericr\Documents\GitHub\Basic-C-Sharp\PersonComparison\PersonComparison\bin\Debug\netcoreapp3.1\PersonComparison.dll
+C:\Users\ericr\Documents\GitHub\Basic-C-Sharp\PersonComparison\PersonComparison\bin\Debug\netcoreapp3.1\PersonComparison.pdb
+C:\Users\ericr\Documents\GitHub\Basic-C-Sharp\PersonComparison\PersonComparison\obj\Debug\netcoreapp3.1\PersonComparison.AssemblyInfoInputs.cache
+C:\Users\ericr\Documents\GitHub\Basic-C-Sharp\PersonComparison\PersonComparison\obj\Debug\netcoreapp3.1\PersonComparison.AssemblyInfo.cs
+C:\Users\ericr\Documents\GitHub\Basic-C-Sharp\PersonComparison\PersonComparison\obj\Debug\netcoreapp3.1\PersonComparison.csproj.CoreCompileInputs.cache
+C:\Users\ericr\Documents\GitHub\Basic-C-Sharp\PersonComparison\PersonComparison\obj\Debug\netcoreapp3.1\PersonComparison.dll
+C:\Users\ericr\Documents\GitHub\Basic-C-Sharp\PersonComparison\PersonComparison\obj\Debug\netcoreapp3.1\PersonComparison.pdb
+C:\Users\ericr\Documents\GitHub\Basic-C-Sharp\PersonComparison\PersonComparison\obj\Debug\netcoreapp3.1\PersonComparison.genruntimeconfig.cache
