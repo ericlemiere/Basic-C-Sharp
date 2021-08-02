@@ -1,0 +1,12 @@
+C:\Users\ericr\Documents\GitHub\Basic-C-Sharp\DoWhile\DoWhile\bin\Debug\netcoreapp3.1\DoWhile.exe
+C:\Users\ericr\Documents\GitHub\Basic-C-Sharp\DoWhile\DoWhile\bin\Debug\netcoreapp3.1\DoWhile.deps.json
+C:\Users\ericr\Documents\GitHub\Basic-C-Sharp\DoWhile\DoWhile\bin\Debug\netcoreapp3.1\DoWhile.runtimeconfig.json
+C:\Users\ericr\Documents\GitHub\Basic-C-Sharp\DoWhile\DoWhile\bin\Debug\netcoreapp3.1\DoWhile.runtimeconfig.dev.json
+C:\Users\ericr\Documents\GitHub\Basic-C-Sharp\DoWhile\DoWhile\bin\Debug\netcoreapp3.1\DoWhile.dll
+C:\Users\ericr\Documents\GitHub\Basic-C-Sharp\DoWhile\DoWhile\bin\Debug\netcoreapp3.1\DoWhile.pdb
+C:\Users\ericr\Documents\GitHub\Basic-C-Sharp\DoWhile\DoWhile\obj\Debug\netcoreapp3.1\DoWhile.AssemblyInfoInputs.cache
+C:\Users\ericr\Documents\GitHub\Basic-C-Sharp\DoWhile\DoWhile\obj\Debug\netcoreapp3.1\DoWhile.AssemblyInfo.cs
+C:\Users\ericr\Documents\GitHub\Basic-C-Sharp\DoWhile\DoWhile\obj\Debug\netcoreapp3.1\DoWhile.csproj.CoreCompileInputs.cache
+C:\Users\ericr\Documents\GitHub\Basic-C-Sharp\DoWhile\DoWhile\obj\Debug\netcoreapp3.1\DoWhile.dll
+C:\Users\ericr\Documents\GitHub\Basic-C-Sharp\DoWhile\DoWhile\obj\Debug\netcoreapp3.1\DoWhile.pdb
+C:\Users\ericr\Documents\GitHub\Basic-C-Sharp\DoWhile\DoWhile\obj\Debug\netcoreapp3.1\DoWhile.genruntimeconfig.cache
