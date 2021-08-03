@@ -1,0 +1,13 @@
+C:\Users\ericr\Documents\GitHub\Basic-C-Sharp\SixPartAssignment\SixPartAssignment\bin\Debug\netcoreapp3.1\SixPartAssignment.exe
+C:\Users\ericr\Documents\GitHub\Basic-C-Sharp\SixPartAssignment\SixPartAssignment\bin\Debug\netcoreapp3.1\SixPartAssignment.deps.json
+C:\Users\ericr\Documents\GitHub\Basic-C-Sharp\SixPartAssignment\SixPartAssignment\bin\Debug\netcoreapp3.1\SixPartAssignment.runtimeconfig.json
+C:\Users\ericr\Documents\GitHub\Basic-C-Sharp\SixPartAssignment\SixPartAssignment\bin\Debug\netcoreapp3.1\SixPartAssignment.runtimeconfig.dev.json
+C:\Users\ericr\Documents\GitHub\Basic-C-Sharp\SixPartAssignment\SixPartAssignment\bin\Debug\netcoreapp3.1\SixPartAssignment.dll
+C:\Users\ericr\Documents\GitHub\Basic-C-Sharp\SixPartAssignment\SixPartAssignment\bin\Debug\netcoreapp3.1\SixPartAssignment.pdb
+C:\Users\ericr\Documents\GitHub\Basic-C-Sharp\SixPartAssignment\SixPartAssignment\obj\Debug\netcoreapp3.1\SixPartAssignment.csproj.AssemblyReference.cache
+C:\Users\ericr\Documents\GitHub\Basic-C-Sharp\SixPartAssignment\SixPartAssignment\obj\Debug\netcoreapp3.1\SixPartAssignment.AssemblyInfoInputs.cache
+C:\Users\ericr\Documents\GitHub\Basic-C-Sharp\SixPartAssignment\SixPartAssignment\obj\Debug\netcoreapp3.1\SixPartAssignment.AssemblyInfo.cs
+C:\Users\ericr\Documents\GitHub\Basic-C-Sharp\SixPartAssignment\SixPartAssignment\obj\Debug\netcoreapp3.1\SixPartAssignment.csproj.CoreCompileInputs.cache
+C:\Users\ericr\Documents\GitHub\Basic-C-Sharp\SixPartAssignment\SixPartAssignment\obj\Debug\netcoreapp3.1\SixPartAssignment.dll
+C:\Users\ericr\Documents\GitHub\Basic-C-Sharp\SixPartAssignment\SixPartAssignment\obj\Debug\netcoreapp3.1\SixPartAssignment.pdb
+C:\Users\ericr\Documents\GitHub\Basic-C-Sharp\SixPartAssignment\SixPartAssignment\obj\Debug\netcoreapp3.1\SixPartAssignment.genruntimeconfig.cache
