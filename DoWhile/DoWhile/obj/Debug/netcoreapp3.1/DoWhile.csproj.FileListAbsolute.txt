@@ -10,3 +10,4 @@ C:\Users\ericr\Documents\GitHub\Basic-C-Sharp\DoWhile\DoWhile\obj\Debug\netcorea
 C:\Users\ericr\Documents\GitHub\Basic-C-Sharp\DoWhile\DoWhile\obj\Debug\netcoreapp3.1\DoWhile.dll
 C:\Users\ericr\Documents\GitHub\Basic-C-Sharp\DoWhile\DoWhile\obj\Debug\netcoreapp3.1\DoWhile.pdb
 C:\Users\ericr\Documents\GitHub\Basic-C-Sharp\DoWhile\DoWhile\obj\Debug\netcoreapp3.1\DoWhile.genruntimeconfig.cache
+C:\Users\ericr\Documents\GitHub\Basic-C-Sharp\DoWhile\DoWhile\obj\Debug\netcoreapp3.1\DoWhile.csproj.AssemblyReference.cache

@@ -1,4 +1,5 @@
 ﻿using System;
+using System.Text;
 
 namespace DoWhile
 {
@@ -22,8 +23,12 @@ namespace DoWhile
             }
             while (ii >= 1);
 
+            StringBuilder sb = new StringBuilder();
+            sb.Append("Hello.");
+            sb.Append(" My name is Guy.");
 
-            
+            Console.WriteLine(sb);
+
         }
     }
 }
