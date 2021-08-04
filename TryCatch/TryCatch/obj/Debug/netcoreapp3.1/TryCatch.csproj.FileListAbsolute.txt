@@ -1,0 +1,13 @@
+C:\Users\ericr\Documents\GitHub\Basic-C-Sharp\TryCatch\TryCatch\bin\Debug\netcoreapp3.1\TryCatch.exe
+C:\Users\ericr\Documents\GitHub\Basic-C-Sharp\TryCatch\TryCatch\bin\Debug\netcoreapp3.1\TryCatch.deps.json
+C:\Users\ericr\Documents\GitHub\Basic-C-Sharp\TryCatch\TryCatch\bin\Debug\netcoreapp3.1\TryCatch.runtimeconfig.json
+C:\Users\ericr\Documents\GitHub\Basic-C-Sharp\TryCatch\TryCatch\bin\Debug\netcoreapp3.1\TryCatch.runtimeconfig.dev.json
+C:\Users\ericr\Documents\GitHub\Basic-C-Sharp\TryCatch\TryCatch\bin\Debug\netcoreapp3.1\TryCatch.dll
+C:\Users\ericr\Documents\GitHub\Basic-C-Sharp\TryCatch\TryCatch\bin\Debug\netcoreapp3.1\TryCatch.pdb
+C:\Users\ericr\Documents\GitHub\Basic-C-Sharp\TryCatch\TryCatch\obj\Debug\netcoreapp3.1\TryCatch.csproj.AssemblyReference.cache
+C:\Users\ericr\Documents\GitHub\Basic-C-Sharp\TryCatch\TryCatch\obj\Debug\netcoreapp3.1\TryCatch.AssemblyInfoInputs.cache
+C:\Users\ericr\Documents\GitHub\Basic-C-Sharp\TryCatch\TryCatch\obj\Debug\netcoreapp3.1\TryCatch.AssemblyInfo.cs
+C:\Users\ericr\Documents\GitHub\Basic-C-Sharp\TryCatch\TryCatch\obj\Debug\netcoreapp3.1\TryCatch.csproj.CoreCompileInputs.cache
+C:\Users\ericr\Documents\GitHub\Basic-C-Sharp\TryCatch\TryCatch\obj\Debug\netcoreapp3.1\TryCatch.dll
+C:\Users\ericr\Documents\GitHub\Basic-C-Sharp\TryCatch\TryCatch\obj\Debug\netcoreapp3.1\TryCatch.pdb
+C:\Users\ericr\Documents\GitHub\Basic-C-Sharp\TryCatch\TryCatch\obj\Debug\netcoreapp3.1\TryCatch.genruntimeconfig.cache
