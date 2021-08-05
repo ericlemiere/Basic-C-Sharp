@@ -10,3 +10,4 @@ C:\Users\ericr\Documents\GitHub\Basic-C-Sharp\p285assignment\p285assignment\obj\
 C:\Users\ericr\Documents\GitHub\Basic-C-Sharp\p285assignment\p285assignment\obj\Debug\netcoreapp3.1\p285assignment.dll
 C:\Users\ericr\Documents\GitHub\Basic-C-Sharp\p285assignment\p285assignment\obj\Debug\netcoreapp3.1\p285assignment.pdb
 C:\Users\ericr\Documents\GitHub\Basic-C-Sharp\p285assignment\p285assignment\obj\Debug\netcoreapp3.1\p285assignment.genruntimeconfig.cache
+C:\Users\ericr\Documents\GitHub\Basic-C-Sharp\p285assignment\p285assignment\obj\Debug\netcoreapp3.1\p285assignment.csproj.AssemblyReference.cache
