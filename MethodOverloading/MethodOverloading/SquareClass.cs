@@ -6,17 +6,17 @@ namespace MethodOverloading
 {
     class SquareClass
     {
-        public int Square(int value)
+        public int Calc(int value)
         {
-            return value * value;
+            return value * 3;
         }
 
-        public int Square(decimal value)
+        public int Calc(decimal value)
         {
-            return Convert.ToInt32(value * value);
+            return Convert.ToInt32(value * 9);
         }
 
-        public int Square(string value)
+        public int Calc(string value)
         {
             int valueNum = Convert.ToInt32(value);
             return valueNum * valueNum;

@@ -1,0 +1,12 @@
+C:\Users\ericr\Documents\GitHub\Basic-C-Sharp\p285assignment\p285assignment\bin\Debug\netcoreapp3.1\p285assignment.exe
+C:\Users\ericr\Documents\GitHub\Basic-C-Sharp\p285assignment\p285assignment\bin\Debug\netcoreapp3.1\p285assignment.deps.json
+C:\Users\ericr\Documents\GitHub\Basic-C-Sharp\p285assignment\p285assignment\bin\Debug\netcoreapp3.1\p285assignment.runtimeconfig.json
+C:\Users\ericr\Documents\GitHub\Basic-C-Sharp\p285assignment\p285assignment\bin\Debug\netcoreapp3.1\p285assignment.runtimeconfig.dev.json
+C:\Users\ericr\Documents\GitHub\Basic-C-Sharp\p285assignment\p285assignment\bin\Debug\netcoreapp3.1\p285assignment.dll
+C:\Users\ericr\Documents\GitHub\Basic-C-Sharp\p285assignment\p285assignment\bin\Debug\netcoreapp3.1\p285assignment.pdb
+C:\Users\ericr\Documents\GitHub\Basic-C-Sharp\p285assignment\p285assignment\obj\Debug\netcoreapp3.1\p285assignment.AssemblyInfoInputs.cache
+C:\Users\ericr\Documents\GitHub\Basic-C-Sharp\p285assignment\p285assignment\obj\Debug\netcoreapp3.1\p285assignment.AssemblyInfo.cs
+C:\Users\ericr\Documents\GitHub\Basic-C-Sharp\p285assignment\p285assignment\obj\Debug\netcoreapp3.1\p285assignment.csproj.CoreCompileInputs.cache
+C:\Users\ericr\Documents\GitHub\Basic-C-Sharp\p285assignment\p285assignment\obj\Debug\netcoreapp3.1\p285assignment.dll
+C:\Users\ericr\Documents\GitHub\Basic-C-Sharp\p285assignment\p285assignment\obj\Debug\netcoreapp3.1\p285assignment.pdb
+C:\Users\ericr\Documents\GitHub\Basic-C-Sharp\p285assignment\p285assignment\obj\Debug\netcoreapp3.1\p285assignment.genruntimeconfig.cache
