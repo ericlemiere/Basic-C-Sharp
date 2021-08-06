@@ -4,7 +4,7 @@ using System.Text;
 
 namespace p285assignment
 {
-    class MathOp
+    public static class MathOp
     {
         public static string thankYouMsg;
         public static string halved;
@@ -16,7 +16,7 @@ namespace p285assignment
         }
 
         // Method takes integer parameter
-        public void DivideByTwo(int value)
+        public static void DivideByTwo(int value)
         {
             // Divide input value by 2
             Console.WriteLine("{0} divided by 2 is {1}", value, value / 2);
@@ -25,13 +25,13 @@ namespace p285assignment
         }
 
         // Method takes string parameter
-        public void DivideByTwo(string value)
+        public static void DivideByTwo(string value)
         {
             Console.WriteLine("{0} divided by 2 is {1}", value, (Convert.ToInt32(value) / 2));
             Console.WriteLine(MathOp.halved);
         }
 
-        public void Operations(int value, out int xAdd, out int xSub, out int xMult, out int xDiv)
+        public static void Operations(int value, out int xAdd, out int xSub, out int xMult, out int xDiv)
         {
             xAdd = value + 2;
             xSub = value - 2;
