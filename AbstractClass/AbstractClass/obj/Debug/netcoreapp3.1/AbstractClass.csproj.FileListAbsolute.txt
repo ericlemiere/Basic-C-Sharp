@@ -10,3 +10,4 @@ C:\Users\ericr\Documents\GitHub\Basic-C-Sharp\AbstractClass\AbstractClass\obj\De
 C:\Users\ericr\Documents\GitHub\Basic-C-Sharp\AbstractClass\AbstractClass\obj\Debug\netcoreapp3.1\AbstractClass.dll
 C:\Users\ericr\Documents\GitHub\Basic-C-Sharp\AbstractClass\AbstractClass\obj\Debug\netcoreapp3.1\AbstractClass.pdb
 C:\Users\ericr\Documents\GitHub\Basic-C-Sharp\AbstractClass\AbstractClass\obj\Debug\netcoreapp3.1\AbstractClass.genruntimeconfig.cache
+C:\Users\ericr\Documents\GitHub\Basic-C-Sharp\AbstractClass\AbstractClass\obj\Debug\netcoreapp3.1\AbstractClass.csproj.AssemblyReference.cache

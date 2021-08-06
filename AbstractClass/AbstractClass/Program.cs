@@ -9,6 +9,10 @@ namespace AbstractClass
             // Instantiate new employee and print name to console.
             Employee employee1 = new Employee() { FirstName = "Sarah", LastName = "Connor" };
             employee1.SayName();
+
+            IQuittable quittable = new Employee();
+            quittable.Quit();
+
         }
     }
 }
