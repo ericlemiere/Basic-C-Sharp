@@ -4,7 +4,16 @@ using System.Text;
 
 namespace TwentyOne
 {
-    class TwentyOneGame
+    public class TwentyOneGame : Game
     {
+        public override void Play()
+        {
+
+        }
+        public override void ListPlayers()
+        {
+            Console.WriteLine("21 Players:");
+            base.ListPlayers();
+        }
     }
 }
