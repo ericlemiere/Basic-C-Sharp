@@ -1,0 +1,13 @@
+C:\Users\ericr\Documents\GitHub\Basic-C-Sharp\EnumsAssignment\EnumsAssignment\bin\Debug\netcoreapp3.1\EnumsAssignment.exe
+C:\Users\ericr\Documents\GitHub\Basic-C-Sharp\EnumsAssignment\EnumsAssignment\bin\Debug\netcoreapp3.1\EnumsAssignment.deps.json
+C:\Users\ericr\Documents\GitHub\Basic-C-Sharp\EnumsAssignment\EnumsAssignment\bin\Debug\netcoreapp3.1\EnumsAssignment.runtimeconfig.json
+C:\Users\ericr\Documents\GitHub\Basic-C-Sharp\EnumsAssignment\EnumsAssignment\bin\Debug\netcoreapp3.1\EnumsAssignment.runtimeconfig.dev.json
+C:\Users\ericr\Documents\GitHub\Basic-C-Sharp\EnumsAssignment\EnumsAssignment\bin\Debug\netcoreapp3.1\EnumsAssignment.dll
+C:\Users\ericr\Documents\GitHub\Basic-C-Sharp\EnumsAssignment\EnumsAssignment\bin\Debug\netcoreapp3.1\EnumsAssignment.pdb
+C:\Users\ericr\Documents\GitHub\Basic-C-Sharp\EnumsAssignment\EnumsAssignment\obj\Debug\netcoreapp3.1\EnumsAssignment.csproj.AssemblyReference.cache
+C:\Users\ericr\Documents\GitHub\Basic-C-Sharp\EnumsAssignment\EnumsAssignment\obj\Debug\netcoreapp3.1\EnumsAssignment.AssemblyInfoInputs.cache
+C:\Users\ericr\Documents\GitHub\Basic-C-Sharp\EnumsAssignment\EnumsAssignment\obj\Debug\netcoreapp3.1\EnumsAssignment.AssemblyInfo.cs
+C:\Users\ericr\Documents\GitHub\Basic-C-Sharp\EnumsAssignment\EnumsAssignment\obj\Debug\netcoreapp3.1\EnumsAssignment.csproj.CoreCompileInputs.cache
+C:\Users\ericr\Documents\GitHub\Basic-C-Sharp\EnumsAssignment\EnumsAssignment\obj\Debug\netcoreapp3.1\EnumsAssignment.dll
+C:\Users\ericr\Documents\GitHub\Basic-C-Sharp\EnumsAssignment\EnumsAssignment\obj\Debug\netcoreapp3.1\EnumsAssignment.pdb
+C:\Users\ericr\Documents\GitHub\Basic-C-Sharp\EnumsAssignment\EnumsAssignment\obj\Debug\netcoreapp3.1\EnumsAssignment.genruntimeconfig.cache
