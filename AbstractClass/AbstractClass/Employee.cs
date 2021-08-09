@@ -4,9 +4,10 @@ using System.Text;
 
 namespace AbstractClass
 {
-    public class Employee : Person, IQuittable
+    public class Employee<T> : Person, IQuittable
     {
         public int employeeNum;
+        public List<T> things;
 
         // Override inherited class method (can now be accessed from main method)
         public override void SayName()
@@ -18,7 +19,8 @@ namespace AbstractClass
         {
             Console.WriteLine("\nPress Any Key to Quit Program.");
         }
-        public static bool operator== (Employee employee1, Employee employee2)
+
+        public static bool operator ==(Employee<T> employee1, Employee<T> employee2)
         {
             if (employee1.employeeNum == employee2.employeeNum)
             {
@@ -30,7 +32,7 @@ namespace AbstractClass
             }
         }
 
-        public static bool operator !=(Employee employee1, Employee employee2)
+        public static bool operator !=(Employee<T> employee1, Employee<T> employee2)
         {
             if (employee1.employeeNum != employee2.employeeNum)
             {
@@ -41,6 +43,7 @@ namespace AbstractClass
                 return false;
             }
         }
+
 
     }
 }
