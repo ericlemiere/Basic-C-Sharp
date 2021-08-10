@@ -21,6 +21,11 @@ namespace EnumsAssignment
                 Console.WriteLine("\nPlease enter an actual day of the week.");
             }
 
+
+            Number number = new Number();
+            number.Amount = 3.1415m;
+
+            Console.WriteLine(number.Amount);
         }
     }
 }

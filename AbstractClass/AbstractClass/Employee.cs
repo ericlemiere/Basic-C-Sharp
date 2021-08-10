@@ -17,7 +17,7 @@ namespace AbstractClass
         }
         public void Quit()
         {
-            Console.WriteLine("\nPress Any Key to Quit Program.");
+            Console.WriteLine("\nPress Any Key to Quit Program\n\n\n\n.");
         }
 
         public static bool operator ==(Employee<T> employee1, Employee<T> employee2)
