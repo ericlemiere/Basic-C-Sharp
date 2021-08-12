@@ -1,0 +1,12 @@
+C:\Users\ericr\Documents\GitHub\Basic-C-Sharp\Exceptions\Exceptions\bin\Debug\netcoreapp3.1\Exceptions.exe
+C:\Users\ericr\Documents\GitHub\Basic-C-Sharp\Exceptions\Exceptions\bin\Debug\netcoreapp3.1\Exceptions.deps.json
+C:\Users\ericr\Documents\GitHub\Basic-C-Sharp\Exceptions\Exceptions\bin\Debug\netcoreapp3.1\Exceptions.runtimeconfig.json
+C:\Users\ericr\Documents\GitHub\Basic-C-Sharp\Exceptions\Exceptions\bin\Debug\netcoreapp3.1\Exceptions.runtimeconfig.dev.json
+C:\Users\ericr\Documents\GitHub\Basic-C-Sharp\Exceptions\Exceptions\bin\Debug\netcoreapp3.1\Exceptions.dll
+C:\Users\ericr\Documents\GitHub\Basic-C-Sharp\Exceptions\Exceptions\bin\Debug\netcoreapp3.1\Exceptions.pdb
+C:\Users\ericr\Documents\GitHub\Basic-C-Sharp\Exceptions\Exceptions\obj\Debug\netcoreapp3.1\Exceptions.AssemblyInfoInputs.cache
+C:\Users\ericr\Documents\GitHub\Basic-C-Sharp\Exceptions\Exceptions\obj\Debug\netcoreapp3.1\Exceptions.AssemblyInfo.cs
+C:\Users\ericr\Documents\GitHub\Basic-C-Sharp\Exceptions\Exceptions\obj\Debug\netcoreapp3.1\Exceptions.csproj.CoreCompileInputs.cache
+C:\Users\ericr\Documents\GitHub\Basic-C-Sharp\Exceptions\Exceptions\obj\Debug\netcoreapp3.1\Exceptions.dll
+C:\Users\ericr\Documents\GitHub\Basic-C-Sharp\Exceptions\Exceptions\obj\Debug\netcoreapp3.1\Exceptions.pdb
+C:\Users\ericr\Documents\GitHub\Basic-C-Sharp\Exceptions\Exceptions\obj\Debug\netcoreapp3.1\Exceptions.genruntimeconfig.cache

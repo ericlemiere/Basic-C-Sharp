@@ -16,9 +16,21 @@ namespace TwentyOne
             Console.WriteLine("Welcome to the Virtual Casino! Lets play BlackJack!");
             Console.WriteLine("What is your name?");
             string playerName = Console.ReadLine();
-            Console.WriteLine("Hello, {0}. How much money would you like to gamble with?", playerName);
-            int bank = Convert.ToInt32(Console.ReadLine());
-            Console.WriteLine("Ready to play? (yes/no)");
+
+            bool validAnswer = false;
+            int bank = 0;
+            while (!validAnswer)
+            {
+                Console.WriteLine("How much money would you like to gamble with?");
+                validAnswer = int.TryParse(Console.ReadLine(), out bank);
+                if (!validAnswer)
+                {
+                    Console.WriteLine("Please enter a whole number for your dollar amount.");
+                }
+            }
+
+            
+            Console.WriteLine("Ok, {0}. Ready to play? (yes/no)", playerName);
             string answer = Console.ReadLine().ToLower();
             if (answer == "yes" || answer == "y" || answer == "yeah")
             {
@@ -33,7 +45,20 @@ namespace TwentyOne
                 player.isActivelyPlaying = true;
                 while (player.isActivelyPlaying && player.Balance > 0)
                 {
-                    game.Play();
+                    try
+                    {
+                        game.Play();
+                    }
+                    catch (FraudException)
+                    {
+                        Console.WriteLine("Security has removed you from the game for fraudulent behavior.");
+                        return;
+                    }
+                    catch (Exception)
+                    {
+                        Console.WriteLine("Something went wrong. Please start new game.");
+                        return;
+                    }
                 }
                 game -= player;
                 Console.WriteLine("Thank you for playing!");
