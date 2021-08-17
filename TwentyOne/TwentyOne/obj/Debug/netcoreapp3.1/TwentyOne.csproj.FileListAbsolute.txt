@@ -14,3 +14,10 @@ C:\Users\ericr\Documents\GitHub\Basic-C-Sharp\TwentyOne\TwentyOne\obj\Debug\netc
 C:\Users\ericr\Documents\GitHub\Basic-C-Sharp\TwentyOne\TwentyOne\bin\Debug\netcoreapp3.1\Casino.dll
 C:\Users\ericr\Documents\GitHub\Basic-C-Sharp\TwentyOne\TwentyOne\bin\Debug\netcoreapp3.1\Casino.pdb
 C:\Users\ericr\Documents\GitHub\Basic-C-Sharp\TwentyOne\TwentyOne\obj\Debug\netcoreapp3.1\TwentyOne.csproj.CopyComplete
+C:\Users\ericr\Documents\GitHub\Basic-C-Sharp\TwentyOne\TwentyOne\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+C:\Users\ericr\Documents\GitHub\Basic-C-Sharp\TwentyOne\TwentyOne\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\ericr\Documents\GitHub\Basic-C-Sharp\TwentyOne\TwentyOne\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\ericr\Documents\GitHub\Basic-C-Sharp\TwentyOne\TwentyOne\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\ericr\Documents\GitHub\Basic-C-Sharp\TwentyOne\TwentyOne\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\ericr\Documents\GitHub\Basic-C-Sharp\TwentyOne\TwentyOne\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\ericr\Documents\GitHub\Basic-C-Sharp\TwentyOne\TwentyOne\obj\Debug\netcoreapp3.1\TwentyOne.GeneratedMSBuildEditorConfig.editorconfig
