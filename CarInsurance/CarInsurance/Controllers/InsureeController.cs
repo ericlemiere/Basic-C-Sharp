@@ -55,52 +55,32 @@ namespace CarInsurance.Controllers
                 var age = today.Year - insuree.DateOfBirth.Year;
 
                 // Check if insuree is under 18
-                if (age <= 18)
-                {
-                    quote += 100;
-                }
+                if (age <= 18) quote += 100;
+
                 // Check if insuree is between ages 19 and 25
-                else if (age >= 19 && age < 25)
-                {
-                    quote += 50;
-                }
+                else if (age >= 19 && age < 25) quote += 50;
+
                 // Insuree must be 25+
-                else
-                {
-                    quote += 25;
-                }
+                else quote += 25;
 
                 // Add 25 if car year is older than 2000 or newer than 2015
-                if (insuree.CarYear < 2000 || insuree.CarYear > 2015)
-                {
-                    quote += 25;
-                }
+                if (insuree.CarYear < 2000 || insuree.CarYear > 2015) quote += 25;
 
                 // Porsche cost increases
                 if (insuree.CarMake.ToLower() == "porsche")
                 {
                     quote += 25;
-                    if (insuree.CarModel.ToLower() == "911 carrera")
-                    {
-                        quote += 25;
-                    }
+                    if (insuree.CarModel.ToLower() == "911 carrera") quote += 25;
                 }
 
                 // Quote increases by 10 for each speeding ticket
-                if (insuree.SpeedingTickets > 0)
-                {
-                    quote += (insuree.SpeedingTickets * 10);
-                }
+                if (insuree.SpeedingTickets > 0) quote += (insuree.SpeedingTickets * 10);
+
                 // Quote increases by 25% if insuree has DUI
-                if (insuree.DUI)
-                {
-                    quote += Convert.ToInt32(quote * .25);
-                }
+                if (insuree.DUI) quote += Convert.ToInt32(quote * .25);
+
                 // Full coverage adds 50%
-                if (insuree.CoverageType)
-                {
-                    quote += Convert.ToInt32(quote * .5);
-                }
+                if (insuree.CoverageType) quote += Convert.ToInt32(quote * .5);
 
                 insuree.Quote = quote;
                 db.Insurees.Add(insuree);
